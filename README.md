@@ -1,7 +1,7 @@
 # himu.github.io
 
 This is my personal portfolio website, written with pure HTML, CSS & JS. \
-If you happen to visit my [website](https://coolstormaction.github.io/himu.github.io/) \
+If you happen to visit my [website](https://coolstormaction.github.io/himu.github.io/), \
 Please leave me a message by any means listed there.
 
 # Contributing
