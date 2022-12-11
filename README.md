@@ -7,5 +7,5 @@ Please leave me a message by any means listed there.
 # Contributing
 
 I am not accepting contributions right now. \
-But if you happen to notice a bug, you can email me.\
+But if you happen to notice a bug, you can email me or start a pull request.\
 Email - halderhena05@gmail.com
